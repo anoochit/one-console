@@ -1,0 +1,6 @@
+### Project Summary ###
+ONE Console is another Web Management Console for OpenNebula, The Open Source Toolkit for Cloud Computing. OpenNebula provide service adapter interface via XML RPC2, OCCI and EC2-Query, it mean you can manage your Cloud Infrastructure by these interface. This project is a web management console working with the OpenNebula interfaces provide the easy way to manage your Cloud Infra and your Cloud services easier.
+
+### Mock up UI design ###
+
+<a href='http://picasaweb.google.com/lh/photo/eSaGCszHYjXqjAhhRDsrNA?feat=embedwebsite'><img src='http://lh4.ggpht.com/_RHPkWWvabZc/TRgtM27Q7sI/AAAAAAAAGo0/hsRPMtxTEq8/s288/login-screen.png' height='216' width='288' /></a> <a href='http://picasaweb.google.com/lh/photo/Bb5ovFwkRjlOwf3Qa51fBg?feat=embedwebsite'><img src='http://lh3.ggpht.com/_RHPkWWvabZc/TS8qH6f83OI/AAAAAAAAGqI/JQY8hzgxxLU/s288/dashboard-screen.png' height='216' width='288' /></a> <a href='http://picasaweb.google.com/lh/photo/eb5vEM30NAGSy6Qdjosrjw?feat=embedwebsite'><img src='http://lh3.ggpht.com/_RHPkWWvabZc/TTEXinmDjNI/AAAAAAAAGq0/9_mw3lLz1bg/s288/library-screen-full.png' height='239' width='288' /></a>

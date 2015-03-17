@@ -1,0 +1,11 @@
+### Mock up UI design ###
+
+<a href='http://picasaweb.google.com/lh/photo/eSaGCszHYjXqjAhhRDsrNA?feat=embedwebsite'><img src='http://lh4.ggpht.com/_RHPkWWvabZc/TRgtM27Q7sI/AAAAAAAAGo0/hsRPMtxTEq8/s288/login-screen.png' height='216' width='288' /></a> <a href='http://picasaweb.google.com/lh/photo/D0sG-kCs4FeK9ACbbTgoLQ?feat=embedwebsite'><img src='http://lh5.ggpht.com/_RHPkWWvabZc/TRgdfeSLMtI/AAAAAAAAGok/UzC1AE6S9e0/s288/signup-screen.png' height='216' width='288' /></a>
+
+<a href='http://picasaweb.google.com/lh/photo/hZeR78K90JnBWjCI-SP5yA?feat=embedwebsite'><img src='http://lh5.ggpht.com/_RHPkWWvabZc/TRgdfVpDWnI/AAAAAAAAGog/iMtk8PF6cuA/s288/lostpassword-screen.png' height='216' width='288' /></a> <a href='http://picasaweb.google.com/lh/photo/Bb5ovFwkRjlOwf3Qa51fBg?feat=embedwebsite'><img src='http://lh3.ggpht.com/_RHPkWWvabZc/TS8qH6f83OI/AAAAAAAAGqI/JQY8hzgxxLU/s288/dashboard-screen.png' height='216' width='288' /></a>
+
+<a href='http://picasaweb.google.com/lh/photo/VsDVQWShWB3jiFV52dyS4Q?feat=embedwebsite'><img src='http://lh5.ggpht.com/_RHPkWWvabZc/TS8qIOaNpwI/AAAAAAAAGqM/aJXrzdEsU2I/s288/virtualmachine-screen.png' height='216' width='288' /></a> <a href='http://picasaweb.google.com/lh/photo/21cPJpaUpbst-_wGlch5qg?feat=embedwebsite'><img src='http://lh5.ggpht.com/_RHPkWWvabZc/TTBmCPn8XGI/AAAAAAAAGqY/4d55UUzgJd8/s288/template-screen.png' height='216' width='288' /></a>
+
+<a href='http://picasaweb.google.com/lh/photo/eb5vEM30NAGSy6Qdjosrjw?feat=embedwebsite'><img src='http://lh3.ggpht.com/_RHPkWWvabZc/TTEXinmDjNI/AAAAAAAAGq0/9_mw3lLz1bg/s288/library-screen-full.png' height='239' width='288' /></a>  <a href='http://picasaweb.google.com/lh/photo/HucNWRlh5rqd1e1RACSQlw?feat=embedwebsite'><img src='http://lh5.ggpht.com/_RHPkWWvabZc/TTEXincpn-I/AAAAAAAAGq4/1Dbf1mkSd00/s288/library-marketplace-screen-full.png' height='239' width='288' /></a>
+
+<a href='http://picasaweb.google.com/lh/photo/pHaNlFlH9AkygFbTbbXcsw?feat=embedwebsite'><img src='http://lh6.ggpht.com/_RHPkWWvabZc/TTEciBC4s3I/AAAAAAAAGrA/8JxeZP9p7VM/s288/host-screen.png' height='216' width='288' /></a>  <a href='http://picasaweb.google.com/lh/photo/ihQDdFbaNHFoDiPYnfbuEw?feat=embedwebsite'><img src='http://lh6.ggpht.com/_RHPkWWvabZc/TTEhFc0TpuI/AAAAAAAAGrI/x1dZ9hr0NJM/s288/vnet-screen.png' height='216' width='288' /></a>
